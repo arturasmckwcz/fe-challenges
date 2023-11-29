@@ -1,0 +1,6 @@
+[submodule "qr-code-component-main"]
+	path = qr-code-component-main
+	url = git@github.com:arturasmckwcz/qr-code-component-main.git
+[submodule "age-calculator-app-main"]
+	path = age-calculator-app-main
+	url = git@github.com:arturasmckwcz/age-calculator-app-main.git
