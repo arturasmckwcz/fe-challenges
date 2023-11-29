@@ -4,3 +4,6 @@
 [submodule "age-calculator-app-main"]
 	path = age-calculator-app-main
 	url = git@github.com:arturasmckwcz/age-calculator-app-main.git
+[submodule "todo-app-main"]
+	path = todo-app-main
+	url = git@github.com:arturasmckwcz/todo-app-main.git
